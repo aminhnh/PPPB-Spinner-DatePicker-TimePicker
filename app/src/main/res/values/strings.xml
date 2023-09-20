@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PPPB 200923</string>
+    <array name="countries">
+        <item>Finland</item>
+        <item>Libya</item>
+        <item>Monaco</item>
+        <item>Pakistan</item>
+        <item>Japan</item>
+    </array>
+
+</resources>
